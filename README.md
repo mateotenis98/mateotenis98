@@ -36,4 +36,5 @@
 * 🎓 **Bachelor's degree - Industrial Engineering** | Universidad de Los Andes (2017-2022)
 * 🏆 **AWS Certified Cloud Practitioner**
 * 🏆 **Machine Learning Specialization**
+* 🏆 **Google Agile Essentials**
 * 🏆 **IBM Data Analyst Professional Certificate**
