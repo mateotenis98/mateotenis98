@@ -32,7 +32,7 @@
 
 # 🎓 Education & Certifications
 
-* 🎓 **Master of Science - Data Analytics Intelligence** | Universidad de Los Andes (2024-2026)
+* 🎓 **Master of Engineering - Data Analytics Intelligence** | Universidad de Los Andes (2024-2026)
 * 🎓 **Bachelor's degree - Industrial Engineering** | Universidad de Los Andes (2017-2022)
 * 🏆 **AWS Certified Cloud Practitioner**
 * 🏆 **Machine Learning Specialization**
