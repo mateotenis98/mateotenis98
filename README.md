@@ -2,7 +2,7 @@
 <h3 align="center">Machine Learning Engineer | Data & AI Solutions</h3>
 
 - 🤝 **I currently work as a Machine Learning Engineer at Indra Group, building scalable AI & Data pipelines.**
-- 🎾 **Featured Project:** Check out my [End-to-End Tennis AI Data Platform](https://github.com/mateotenis98/tennis-ai-data-platform) built on GCP.
+- 🎾 **Featured Project:** Check out my [End-to-End Tennis AI Data Platform](https://github.com/mateotenis98/tennis-ai-data-platform) built on GCP deployed in https://tennis.mateogrisales.com/.
 - 🧠 **Specialties:** Machine Learning (GCP Vertex AI), Generative AI (Amazon Bedrock, LangChain), and Data Engineering (AWS, BigQuery).
 - 📫 **How to reach me:** [mateogrisaleshurtado@outlook.com](mailto:mateogrisaleshurtado@outlook.com)
 
