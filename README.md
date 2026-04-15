@@ -2,7 +2,7 @@
 <h3 align="center">Machine Learning Engineer | Data & AI Solutions</h3>
 
 - 🤝 **I currently work as a Machine Learning Engineer at Indra Group, building scalable AI & Data pipelines.**
-- 🎾 **Featured Project:** Check out my [End-to-End Tennis AI Data Platform](https://github.com/mateotenis98/tennis-ai-data-platform) built on GCP deployed in https://tennis.mateogrisales.com/.
+- 🎾 **Featured Project:** Architected the **[End-to-End Tennis AI Data Platform](https://github.com/mateotenis98/tennis-ai-data-platform)**. A full-stack pipeline built on GCP (BigQuery, Cloud Run, API Gateway) and React. Experience the live ML predictions here: **[tennis.mateogrisales.com](https://tennis.mateogrisales.com)**.
 - 🧠 **Specialties:** Machine Learning (GCP Vertex AI), Generative AI (Amazon Bedrock, LangChain), and Data Engineering (AWS, BigQuery).
 - 📫 **How to reach me:** [mateogrisaleshurtado@outlook.com](mailto:mateogrisaleshurtado@outlook.com)
 
@@ -13,12 +13,12 @@
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/googlecloud/googlecloud-original.svg" alt="gcp" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original-wordmark.svg" alt="pandas" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>&nbsp;&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/googlecloud/googlecloud-original.svg" alt="gcp" width="40" height="40"/>&nbsp;&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/>&nbsp;&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/>&nbsp;&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original-wordmark.svg" alt="pandas" width="40" height="40"/>&nbsp;&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="40" height="40"/>
 </p>
 
 # 💼 Experience
